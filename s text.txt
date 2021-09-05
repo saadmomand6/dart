@@ -1,0 +1,18 @@
+void main() {
+//   for addition
+var num1=5;
+  var num2=8;
+  print(num1+num2);
+  //   for subtraction
+var num3=5;
+  var num4=8;
+  print(num3-num4);
+  //   for multiplication
+var num5=5;
+  var num6=8;
+  print(num5*num6);
+  //   for division
+var num7=5;
+  var num8=8;
+  print(num7/num8);
+}
